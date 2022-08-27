@@ -1,6 +1,6 @@
 {
 	"ip":"Neromohammed.aternos.me",
-	"port": ,
+	"port": 51618,
 	"name": "afkbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
